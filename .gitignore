@@ -120,7 +120,7 @@ ipch/
 *.pro.user.*
 *.qbs.user
 *.qbs.user.*
-Makefile*
+# Makefile*
 *.Debug
 *.Release
 
