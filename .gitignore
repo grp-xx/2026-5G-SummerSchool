@@ -1,3 +1,6 @@
+#Live coding folder
+live/*
+
 # Compiled Object files
 *.o
 *.obj
